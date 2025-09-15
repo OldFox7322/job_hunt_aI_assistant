@@ -1,0 +1,7 @@
+playwright
+beautifulsoup4
+pymongo
+python-dotenv
+pydantic
+PyMuPDF
+openai
